@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="container">
       <h1>Welcome to this magical app made by me</h1>
+      <h1>~ Abhiraj Singh Chauhan</h1>
 
       <div className="row">
         <img
